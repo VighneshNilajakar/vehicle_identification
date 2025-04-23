@@ -1,1 +1,1 @@
-CAMERA_URL = "http://192.168.229.101:8080/video"  # Replace with your IP Webcam stream
+CAMERA_URL = "http://192.168.151.7:8080/video"  # Replace with your IP Webcam stream
